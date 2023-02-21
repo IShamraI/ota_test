@@ -4,3 +4,4 @@ esp.osdebug(None)
 #webrepl.start()
 import ota
 ota.pull_all()
+# ota ...
